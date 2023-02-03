@@ -8,6 +8,8 @@
 
 ## Languages used
 
+React JS , Javascript
+
 ## Steps
 
 The packages here can be runned and installed with the use of npm.
